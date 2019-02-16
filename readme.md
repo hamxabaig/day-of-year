@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ npm install day-of-year
+$ npm install date2doy
 ```
 
 

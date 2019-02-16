@@ -1,0 +1,33 @@
+{
+	"name": "day-of-year",
+	"version": "1.0.0",
+	"description": "Convert js date to day of year &amp; vice versa.",
+	"license": "MIT",
+	"repository": "hamxabaig/day-of-year",
+	"author": {
+		"name": "Hamza Baig",
+		"email": "hamzabaig18@gmail.com",
+		"url": "hamxabaig.github.io"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"date",
+		"day-of-year",
+		"doy-to-date"
+	],
+	"dependencies": {
+		"ow": "^0.12.0"
+	},
+	"devDependencies": {
+		"ava": "^0.25.0",
+		"xo": "^0.21.0"
+	}
+}

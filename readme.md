@@ -13,7 +13,7 @@ $ npm install date2doy
 ## Usage
 
 ```js
-const doy = require('day-of-year');
+const doy = require('date2doy');
 
 doy.dateToDoy('2019-02-01');
 //=> {doy: 32, year: 2019}

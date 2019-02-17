@@ -1,6 +1,6 @@
 {
 	"name": "date2doy",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Convert js date to day of year &amp; vice versa.",
 	"license": "MIT",
 	"repository": "hamxabaig/day-of-year",
